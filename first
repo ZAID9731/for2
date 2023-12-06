@@ -1,0 +1,2 @@
+var name="mohammedzaid";
+console.log("MY NAME IS: {name}");
